@@ -1,8 +1,7 @@
 [package]
-name = "abc442"
+name = "abc443"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-itertools = "=0.11.0"
 proconio = { version = "=0.4.5", features = ["derive"] }
